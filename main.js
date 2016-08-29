@@ -6,7 +6,11 @@
 
 Below are a number of problems for you to solve
 using JS. The JS code can be written below each
-problem and the result can be displayed in the HTML page.
+problem and the result can be logged to the console.
+
+In order to make the results easy to read,
+please use console.log("Question #") to declare the
+problem number being solved followed by console.log(yourAnswer) after each question.
 
 For any methods that we didn't cover, please refer to the Functions Documentation.
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
